@@ -1,2 +1,2 @@
-# Resort Website using Html & Css.
+# Resort Website using HTML & CSS.
 Live at https://club-mahindra.netlify.app
