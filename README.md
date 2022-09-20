@@ -1,4 +1,4 @@
-# Resort Website 🏖️ 🏝️ 🏄🌴 using HTML & CSS 💻
+# Resort Website 🏖️ 🏝️ 🏄 using HTML & CSS 💻
 <hr>
 Live at :- https://club-mahindra.netlify.app
 <hr/>
